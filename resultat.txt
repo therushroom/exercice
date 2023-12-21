@@ -1,0 +1,11 @@
+a: id
+b: description
+c: prenom
+d: nom
+e: credit
+f: debit
+g: solde 
+
+
+les 3 personnes les plus riches:
+  [('Zoé Walliand', 893775893), ('Gerard Parmentier', 892220076), ('Océane Urbain', 891910460)]
