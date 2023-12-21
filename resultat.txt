@@ -2,8 +2,8 @@ a: id
 b: description
 c: prenom
 d: nom
-e: credit
-f: debit
+e: depot 
+f: retrait 
 g: solde 
 
 
